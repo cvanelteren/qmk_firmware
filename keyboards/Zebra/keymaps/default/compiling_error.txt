@@ -1,0 +1,4 @@
+/home/casper/projects/project-keyboard/keyboards/Zebra/keymaps/default/keymap.c:16:10: fatal error: Zebra.h: No such file or directory
+ #include "Zebra.h"
+          ^~~~~~~~~
+compilation terminated.
